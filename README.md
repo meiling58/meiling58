@@ -66,9 +66,51 @@ Coach junior QA engineers in automation best practices and scripting.
 
 ---
 
-## 📊 Sample Framework Architecture
+## 📊 Sample Automation Testing Workflow
 
-TBD
+```mermaid
+flowchart TD
+  id1[["`**Stage 1** (Reason/Scoop/Identify)
+  For business or technical
+  By risk, frequency and ROI
+  Define test Types (health/sanity/regression)
+  `"]]
+--> id2{{Automation Test Plan}}
+--> id3[["`**Stage 2**
+    (Choose the Right Tool)
+    Web/UI, API, Mobile and DB
+    CI/CD
+    Report Methods
+    `"]]
+--> id4{{Automation Framework}}
+--> id5[["`**Stage 3**
+    (Clear, Resuable Scripts)
+    Test scripts management: layer with test logic
+    Repository management: folder structure
+    Test Data management: datasets, reuse
+    `"]]
+--> id6{{Automation Scripts templates}}
+--> id7[["`**Stage 4**
+    (Efficient Execution Plan)
+    Local testing
+    Cross-browser/device testing
+    CI/CD pipelines testing
+    `"]]
+--> id8{{Automation Execution Plan}}
+--> id9[["`**Stage 5**
+    (Build Monitor/Report System )
+    Simple, Visibility tests results
+    Alert team when tests failed
+    `"]]
+--> id10{{Automation Monitor/Report Plan}}    
+```
+```Summary
+- Stage 1: Why need the automation Testing / Scope of Test Automation / Identify Requirments
+- Stage 2: Choose the right Tool with maintainable architecture
+- State 3: Create clear, resuable test scripts
+- Stage 4: Design the efficiently execution plan with CI/CD as 
+- Stage 5: Build the monitor/report System
+```
 
 
 ---
