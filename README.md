@@ -67,9 +67,11 @@ Coach junior QA engineers in automation best practices and scripting.
 ---
 
 ## 📊 Sample Automation Testing Workflow
+<details>
+  <summary>Diagram</summary>
 
-```mermaid
-flowchart TD
+  ```mermaid
+  flowchart TD
   id1[["`**Stage 1** (Reason/Scoop/Identify)
   For business or technical
   By risk, frequency and ROI
@@ -104,6 +106,12 @@ flowchart TD
     `"]]
 --> id10{{Automation Monitor/Report Plan}}    
 ```
+</details>
+
+<details>
+  <summary>Summary</summary>
+  
+
 ```Summary
 - Stage 1: Why need the automation Testing / Scope of Test Automation / Identify Requirments
 - Stage 2: Choose the right Tool with maintainable architecture
@@ -111,7 +119,7 @@ flowchart TD
 - Stage 4: Design the efficiently execution plan with CI/CD as 
 - Stage 5: Build the monitor/report System
 ```
-
+</details>
 
 ---
 
