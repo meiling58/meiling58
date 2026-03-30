@@ -11,6 +11,7 @@ Welcome to my GitHub! I’m a **Detail-oriented Software Quality Assurance Profe
 ![Java](https://img.shields.io/badge/Java-Programming_Languages-007396?logo=java\&logoColor=white)
 
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-43B02A?style=flat&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-Automation-red?logo=playwright\&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-Automation-blueviolet?logo=appium\&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-Automation-000000?logo=robot-framework\&logoColor=white)
 
